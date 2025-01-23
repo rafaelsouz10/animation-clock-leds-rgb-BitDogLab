@@ -11,9 +11,12 @@ int main() {
   // Inicializa matriz de LEDs NeoPixel.
   npInit(LED_PIN);
 
+  // Inicializa o buzzer
+  init_buzzer();
+  
   while (true) {
 
-    //animação
-    clock_animation(400);
+    //animação recebe parametro delay
+    clock_animation(200);
   }
 }
