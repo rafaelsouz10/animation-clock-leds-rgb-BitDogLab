@@ -1,3 +1,5 @@
+# Animação feita a partir do vídeo do youtube do professor Jivago: https://www.youtube.com/watch?v=chQdNiFmVm0 e do projeto neopixel_pio no respositório do BitDogLab-C https://github.com/BitDogLab/BitDogLab-C/tree/main/neopixel_pio #
+
 # Matriz de LEDs
 
 ## O LED Endereçável
@@ -711,5 +713,6 @@ Sendo que x e y definem a posição do LED na matriz e r, g e b definem a intens
 Use esta função e faça um programa para acender um coração vermelho na matriz da BitDogLab, como mostra a figura:
 
 ![Figura](images/led_exercicio.png)
-#   a n i m a t i o n - c l o c k - l e d s - r g b  
+#   a n i m a t i o n - c l o c k - l e d s - r g b 
+ 
  
